@@ -20,6 +20,9 @@
 # Go workspace file
 go.work
 go.work.sum
+go.mod
+go.sum
+pcapJoin
 
 # env file
 .env
